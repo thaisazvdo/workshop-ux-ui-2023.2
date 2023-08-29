@@ -11,3 +11,4 @@ Atividade 3 - Wireframe de Baixa Fidelidade
 
 Atividade 4 - Uso do Figma 
 https://www.figma.com/file/J4vZNRvjtR1ikNPpduOHK1/Untitled?type=design&node-id=2%3A16&mode=design&t=NgZLwELV8KKccbuI-1
+![Atividade 04 - Figma](https://github.com/thaisazvdo/workshop-ux-ui-2023.2/assets/112560440/b2764ec7-718c-4955-85eb-8d313e0162bd)
