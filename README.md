@@ -8,3 +8,6 @@ Atividade 2 - FigJam - Fluxo do APP Nubank
 
 Atividade 3 - Wireframe de Baixa Fidelidade
 ![ATV 03 - WIREFRAME BAIXA FIDELIDADE](https://github.com/thaisazvdo/workshop-ux-ui-2023.2/assets/112560440/38f4c50f-8b4f-46fb-b6da-ea8cfd21ca21)
+
+Atividade 4 - Uso do Figma 
+https://www.figma.com/file/J4vZNRvjtR1ikNPpduOHK1/Untitled?type=design&node-id=2%3A16&mode=design&t=NgZLwELV8KKccbuI-1
