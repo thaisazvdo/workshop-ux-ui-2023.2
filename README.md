@@ -12,3 +12,6 @@ Atividade 3 - Wireframe de Baixa Fidelidade
 Atividade 4 - Uso do Figma 
 https://www.figma.com/file/J4vZNRvjtR1ikNPpduOHK1/Untitled?type=design&node-id=2%3A16&mode=design&t=NgZLwELV8KKccbuI-1
 ![Atividade 04 - Figma](https://github.com/thaisazvdo/workshop-ux-ui-2023.2/assets/112560440/b2764ec7-718c-4955-85eb-8d313e0162bd)
+
+Atividade 5 - Figma para tela de Login e Cadastro
+https://www.figma.com/file/JHNFj9VSg4xCDNhWC4TBwt/Untitled?type=design&node-id=0%3A1&mode=design&t=QRzRx70RcqBXuVwl-1
