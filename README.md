@@ -15,3 +15,7 @@ https://www.figma.com/file/J4vZNRvjtR1ikNPpduOHK1/Untitled?type=design&node-id=2
 
 Atividade 5 - Figma para tela de Login e Cadastro
 https://www.figma.com/file/JHNFj9VSg4xCDNhWC4TBwt/Untitled?type=design&node-id=0%3A1&mode=design&t=QRzRx70RcqBXuVwl-1
+
+Atividade 6 - Redesenho da tela do Spotify no Figma
+https://www.figma.com/file/UxjJSO9q1rEN0oGirnPBgs/Untitled?type=design&node-id=0%3A1&mode=design&t=rz2MN8VUFlotL3RB-1
+![Figma - Refazendo tela Spotify](https://github.com/thaisazvdo/workshop-ux-ui-2023.2/assets/112560440/9553a2ec-1a83-4483-a01a-bab63fb70ce5)
